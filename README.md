@@ -49,10 +49,15 @@ O EngApp foi concebido para resolver o gap de comunicação entre o canteiro de 
 ## Stack Tecnológica
 
 | Camada         | Tecnologia   | Justificativa Técnica.
+
 | **Linguagem**  | Python 3.12+ | Estabilidade e vasto ecossistema de análise de dados. 
+
 | **Framework**  | Django       | ORM potente para gerir a complexidade das normas técnicas. 
+
 | **Dados**      | Pandas       | Processamento de grandes volumes de dados de conformidade. 
+
 | **Relatórios** | ReportLab    | Precisão milimétrica na geração de documentos técnicos. 
+
 | **Frontend**   | Tailwind CSS | Estilização ágil e responsiva para tablets e smartphones. 
 
 ## Manual de Implantação (Guia Rápido)
