@@ -1,5 +1,3 @@
-# EngApp
-
 # EngApp: Gestão e Padronização de Protocolos
 
 **EngApp** é uma solução corporativa desenvolvida para digitalizar, padronizar e validar fluxos técnicos e normas de segurança em projetos de infraestrutura. O sistema foca em garantir a integridade de dados e a conformidade rigorosa com Normas Regulamentadoras (NRs), eliminando a burocracia do papel e mitigando riscos jurídicos e operacionais.
