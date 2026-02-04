@@ -40,4 +40,5 @@ Geração de Relatórios: ReportLab / WeasyPrint (automação de PDFs profission
 Interface de Usuário: Django Templates / Tailwind CSS (focado em usabilidade no canteiro de obras)
 
 **Licença**
+
 Este software é de propriedade da KM PROJETOS. O uso ou reprodução sem autorização do desenvolvedor Márcio Rodrigues de Oliveira é estritamente proibida.
