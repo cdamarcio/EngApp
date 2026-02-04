@@ -1,9 +1,11 @@
 # EngApp
 
 **App para Gestão e Padronização de Protocolos de Engenharia.**
+
 Uma solução robusta para o registro, acompanhamento e validação de fluxos técnicos e normas de segurança, garantindo conformidade e integridade em projetos de infraestrutura.
 
 **Roadmap de Desenvolvimento**
+
 Esta seção apresenta as funcionalidades em implementação e o que está planejado para o futuro do projeto:
 
 * [x] **Fase 1: Estrutura Base**
